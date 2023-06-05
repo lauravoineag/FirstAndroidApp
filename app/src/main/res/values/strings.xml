@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Happy Birthday</string>
+    <string name="app_name">Congrats on new job</string>
+    <string name="congratulations_on_job_text">Congratulations on your new job!</string>
+    <string name="signature_of_giver">From Laura</string>
 </resources>
